@@ -13,5 +13,10 @@ namespace ReactJsAspNetPlayground.Controllers
         {
             return View();
         }
+
+        public ActionResult ContactList()
+        {
+            return View();
+        }
     }
 }

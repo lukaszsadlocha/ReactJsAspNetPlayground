@@ -158,7 +158,9 @@
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Scripts\Tutorial.jsx" />
+    <Content Include="Scripts\ContactList.jsx" />
+    <Content Include="Views\Home\ContactList.cshtml" />
+    <Content Include="Scripts\SimpleForm.jsx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
