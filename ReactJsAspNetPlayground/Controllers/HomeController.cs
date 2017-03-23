@@ -18,5 +18,10 @@ namespace ReactJsAspNetPlayground.Controllers
         {
             return View();
         }
+
+        public ActionResult SimpleForm()
+        {
+            return View();
+        }
     }
 }
