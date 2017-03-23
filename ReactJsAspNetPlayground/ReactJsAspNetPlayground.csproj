@@ -161,6 +161,7 @@
     <Content Include="Scripts\ContactList.jsx" />
     <Content Include="Views\Home\ContactList.cshtml" />
     <Content Include="Scripts\SimpleForm.jsx" />
+    <Content Include="Views\Home\SimpleForm.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
